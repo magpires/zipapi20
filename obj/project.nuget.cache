@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "gR+0YvH9i/j31tuPEohJYiKzuueSTsJVDx7InaEVRMxTEHUnzJwp5lwPSbRqLQ2gfygx5LLhxhHZ+sJMD14l1Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\wmpir\\source\\repos\\ZIpAPI\\ZIpAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wmpir\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\wmpir\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\wmpir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\wmpir\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
